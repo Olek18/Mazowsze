@@ -1,4 +1,3 @@
-/* Podstawowy reset i font */
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
   --accent:#b30024;
@@ -95,7 +94,7 @@ a,h2 {
 }
 .sticky{
     position:sticky;
-    top:0;z-index:400
+    top:0;z-index:400px;
 }
 
 .btn{
