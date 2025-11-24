@@ -95,7 +95,7 @@ a,h2 {
 }
 .sticky{
     position:sticky;
-    top:0;z-index:40
+    top:0;z-index:400
 }
 
 .btn{
